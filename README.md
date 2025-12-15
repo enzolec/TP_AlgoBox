@@ -12,7 +12,7 @@ L’objectif principal est de développer plusieurs algorithmes en AlgoBox et d�
 
 
 
-\- \*\*Étudiant :\*\* Leceuve Enzo et LE Romain Arthus
+\- \*\*Étudiants :\*\* Leceuve Enzo et Le Romain Arthus
 
 \- \*\*Dépôt GitHub :\*\* https://github.com/enzolec/TP\_Algobox
 
